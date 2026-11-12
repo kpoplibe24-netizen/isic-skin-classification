@@ -1,4 +1,3 @@
-```markdown
 # ISIC Skin Classification
 
 A multi-class skin lesion classification project using deep learning and dermoscopic images. This project compares a custom CNN trained from scratch against three ImageNet-pretrained transfer-learning architectures.
@@ -107,4 +106,3 @@ DenseNet121 achieved the highest recall, precision, F1 score, and ROC-AUC among 
 ## Disclaimer
 
 This project is an academic deep learning experiment and is not intended for clinical diagnosis or medical decision-making.
-```
